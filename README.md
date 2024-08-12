@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git@github.com:petersameh0/mycv.git
+   git clon https://github.com/petersameh0/mycv.git
 2. Navigate to the project directory:
    ```sh
    cd mycv
